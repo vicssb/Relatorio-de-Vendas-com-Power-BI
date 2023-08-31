@@ -5,7 +5,7 @@
 
 Power BI - 2023
 
-<img src="./IMG/logoPBI.jfif" alt="Página 1" width="150"/>  <img src="./IMG/server1.png" alt="Página 1" width="290"/> 
+<img src="./IMG/logoPBI.jfif" alt="Página 1" width="150"/>  <img src="./IMG/Server1.png" alt="Página 1" width="290"/> 
  
 ## Interactive report with Power BI
  
@@ -40,9 +40,9 @@ This repository contains a sales report project developed with Power BI. The rep
 
 ## Results
  
-<img src="./IMG/server1.png" alt="Page 1" width="500"/>
-<img src="./IMG/server1a.png" alt="Page 1" width="500"/>
-<img src="./IMG/server2.png" alt="Page 2" width="500"/>
+<img src="./IMG/Server1.png" alt="Page 1" width="500"/>
+<img src="./IMG/Server1a.png" alt="Page 1" width="500"/>
+<img src="./IMG/Server2.png" alt="Page 2" width="500"/>
  
  
 ## Conclusion
